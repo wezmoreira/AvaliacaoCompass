@@ -51,3 +51,6 @@ R = As principais responsabilidades dele será:
 • Garantir que o Product Backlog seja transparente, visível e compreendido.
 • Otimizar o valor do trabalho entregue pelo time de desenvolvimento.
 • Assegurar a qualidade da entrega do produto.
+
+
+Referências: https://scrumguides.org/scrum-guide.html
